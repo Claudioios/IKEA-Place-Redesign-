@@ -1,0 +1,32 @@
+[
+  {
+    "libraryIdentifier" : "16d30749f8a428f1d05f349d18646c75",
+    "format" : "model",
+    "displayName" : "bugatti.usdz"
+  },
+  {
+    "libraryIdentifier" : "770bdb4a78146257df04ab1a6f55ad54",
+    "format" : "model",
+    "displayName" : "Kallax.usdz"
+  },
+  {
+    "libraryIdentifier" : "cc52b7ba44b94c3d63f8f705cf615870",
+    "format" : "model",
+    "displayName" : "Poäng.usdz"
+  },
+  {
+    "libraryIdentifier" : "d871b8d40867483536b81123e2964fe9",
+    "format" : "model",
+    "displayName" : "hektar.usdz"
+  },
+  {
+    "libraryIdentifier" : "210d20edef614deca4192f4564a58c1f",
+    "format" : "model",
+    "displayName" : "Ektorp.usdz"
+  },
+  {
+    "libraryIdentifier" : "4c0cea92f283b50d67f27318d8bca52e",
+    "format" : "model",
+    "displayName" : "Lisabo.usdz"
+  }
+]
